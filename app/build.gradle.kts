@@ -45,7 +45,6 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.firebase.firestore)
     implementation(libs.androidx.recyclerview)
-    implementation ("androidx.recyclerview:recyclerview:1.4.0") // or the latest version
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
